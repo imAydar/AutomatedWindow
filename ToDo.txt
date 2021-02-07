@@ -1,0 +1,17 @@
+First of all
+
+	1) Motor and driver keep beeing pretty hot when holding, maybe add sleep feature throw driver
+	2) Make it autonomous
+		2.1) Make a feature with will send queries to server to retrieve temparature data and decide if it worth open the window
+		2.2) Make a separate temperature sensor with esp which will send temerature via web server
+
+
+Secondly
+
+	1) Make stop feature, when window is in max position then stop motor. Same for min position
+
+
+And maybe after all of this
+
+	1) Mqtt(why not rabbitmq? lets get crazy)
+	2) UI
