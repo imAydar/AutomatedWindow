@@ -48,7 +48,7 @@ void disableDriver(){
 #include <ESP8266mDNS.h>
 
 const char* ssid = "TakieDela";
-const char* password = "20978686";
+const char* password = "";
 IPAddress ip (192,168,0,177);
 IPAddress dns (8, 8, 8, 8);
 IPAddress gateway (192, 168, 0, 1);

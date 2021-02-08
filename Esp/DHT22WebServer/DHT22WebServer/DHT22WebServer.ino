@@ -10,7 +10,7 @@ const int DHTPin = 4;
 DHT dht(DHTPin, DHTTYPE);
 
 const char* ssid = "TakieDela";
-const char* password = "20978686";
+const char* password = "";
 IPAddress ip (192,168,0,178);
 IPAddress dns (8, 8, 8, 8);
 IPAddress gateway (192, 168, 0, 1);
